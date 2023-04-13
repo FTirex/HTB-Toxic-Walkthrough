@@ -58,7 +58,12 @@ We inject the New Cookie Value to the WebPage
 
 ![image](https://user-images.githubusercontent.com/31727214/231881388-ac03b8de-62c9-4193-ae1b-17965e30af7e.png)
 
-Now everything will be easy The Dev Team did not change the default path so we can inject some shell codes Via User Agent 
+Now everything will be easy The Dev Team did not change the default path so we can inject some shell codes Via User Agent
+
+for that you can use Exploit.py file that i create to inject and this is the results 
+
+![image](https://user-images.githubusercontent.com/31727214/231882989-a8d6f941-def4-4f00-8eb3-4ca3c5a5a59b.png)
+
 
 
 
