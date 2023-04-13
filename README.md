@@ -1,7 +1,7 @@
 # HTB Toxic Walkthrough By Tirex
 ![image](https://user-images.githubusercontent.com/31727214/231840187-0cbb40a8-82d4-49bc-96ae-4acee4cf4765.png)
 
-This [Room](https://app.hackthebox.com/challenges/Toxic) will help you to learn about session hijacking and escalating the LFI to RCE vulnerability
+This [Room](https://app.hackthebox.com/challenges/Toxic) will help you to learn about session hijacking and P.E vulnerability
 
 ## Discovering
 
