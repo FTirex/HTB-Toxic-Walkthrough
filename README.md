@@ -62,7 +62,13 @@ Now everything will be easy The Dev Team did not change the default path so we c
 
 for that you can use Exploit.py file that i create to inject and this is the results 
 
-![image](https://user-images.githubusercontent.com/31727214/231882989-a8d6f941-def4-4f00-8eb3-4ca3c5a5a59b.png)
+![image](https://user-images.githubusercontent.com/31727214/231884606-595a3ba0-fa19-4d9c-a98b-3475699878eb.png)
+
+![image](https://user-images.githubusercontent.com/31727214/231885373-245cc0b1-d05e-43fd-80e2-d1578a366dab.png)
+
+
+![image](https://user-images.githubusercontent.com/31727214/231885276-4adbd0d5-7f43-4c2c-b95a-6d2a7afd99ba.png)
+
 
 
 
